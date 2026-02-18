@@ -1,6 +1,6 @@
 # Basic Knowledge-Based System (KBS)
 **Name:** Sanaipei Tenkes  
-*ID** 669465  
+**ID** 669465  
 
 ## Project Description
 This is a simple Knowledge-Based System that uses facts and rules to infer new information.
